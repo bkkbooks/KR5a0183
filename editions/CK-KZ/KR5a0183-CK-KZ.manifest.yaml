@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0183/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0183/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上十二上品飛天法輪勸戒妙經
+  date: '2015-08-28 23:40:07.809439'
+  source:
+    repository: kanripo
+    path: KR5a0183
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0183_000-CK-KZ.yaml, hash: 'sha256:5b82a61185a9f565cb6c68a8e662251d57b93385b39922c9d7267a360215a5f8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0183_000-CK-KZ.markers.yaml, hash: 'sha256:b9fc262dd6231c2f951b0c625b74dbaa2a92aa45c8864eef6d1c111c69a34175'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0183_CK-KZ_01p067a
+    span:
+    - body
+    - 0
+    - 1991
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:894d8fbc0eae2ed771aaecf66a85a983c0b02a2774e0844121ac6e6cdb000968
