@@ -1533,9 +1533,10 @@ markers:
   - {type: variant, offset: 2906, length: 15, content: 太上十二上品飛天法輪勸戒妙經終, CK-KZ-jye: ''}
   - {type: variant, offset: 2906, length: 15, content: 太上十二上品飛天法輪勸戒妙經終, YP-C: ''}
   - {type: punctuation, offset: 2920, content: (, id: KR5a0183_krp_000-bkkpn1}
+  - {type: voice, offset: 2920, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2921, content: ), id: KR5a0183_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 2921, content: '
 
       ', id: KR5a0183_krp_000-bkkkrnewl219}
   back: []
-hash: sha256:2548f9e0333c15224f2034e086b1141b00903598d4dc8c295d0cd887d28138ce
+hash: sha256:31eb9d05ed673bd471c62910da452ca051b6bd61f950750aaff417fd6c9235bd
